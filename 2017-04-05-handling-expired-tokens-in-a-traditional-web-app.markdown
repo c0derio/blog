@@ -30,6 +30,7 @@ In this scenario, we are going to build a WebApp called c0der.io.  This applicat
 *  An achievements resource server: this resource server is a RESTful API that allows retrieval of achievement information and adding new achievements.
 *  A projects resource server: this resource server is a RESTful API that allows retrieval of current projects, updating those projects, and adding new projects.
 
+![Application Overview](./images/application_overview.png)
 
 # Our Choices and Points of Interest
 
